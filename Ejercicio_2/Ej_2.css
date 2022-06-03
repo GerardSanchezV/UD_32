@@ -1,0 +1,19 @@
+.fa-user, .fa-envelope-o, .fa-phone{
+    margin-right: 15px;
+    margin-top: 20%;
+    margin-bottom: 30%;
+    color: blue;
+}
+.fa-pencil{
+    margin-right: 15px;
+    color: blue;
+}
+.form-control{
+    border: 1px solid black;
+    
+    
+}
+.w-75{
+    border: 1px solid black;
+    
+}
